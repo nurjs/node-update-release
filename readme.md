@@ -11,10 +11,10 @@ After creation it will be pushed to git remote origin.
 
 ```
 # Recommended.
-npx @node-update-release/nurjs --release-type [options]
+npx @nurjs/nurjs --release-type [options]
 
 # OR an alternative global install.
-npm install -g @node-update-release/nurjs --release-type [options]
+npm install -g @nurjs/nurjs --release-type [options]
 ```
 
 ## Usage
